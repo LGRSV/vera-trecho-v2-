@@ -11,7 +11,7 @@
 </head>
 <body>
 <header>
-  <div><b>Vera Trechos V2 — Seleção de Rede MT</b><small>A rede é visualizada de forma unificada. O KML exporta o início, o fim e as chaves associadas às ramificações do trecho selecionado.</small></div>
+  <div><b>Vera Trechos V2 — Seleção de Rede MT</b><small>Clique em um ativo para abrir o circuito. Trechos cinza de alimentadores próximos entram no KML/CSV somente quando você clicar neles.</small></div>
   <div id="tools">
     <button class="tb on" id="btn-rede" onclick="tog('rede')">Rede MT</button>
     <button class="tb on" id="btn-ctx" onclick="tog('ctx')">Próximos</button>
@@ -35,7 +35,7 @@
   </section>
   <div id="bar">Nenhum alimentador carregado</div>
 </aside><main id="map"></main></div>
-<div id="legend"><div class="lg"><i class="l" style="background:#00c2d7"></i>Rede MT</div><div class="lg"><i class="l" style="background:#777"></i>Alimentador próximo</div><div class="lg"><i class="l dash"></i>Continuidade estimada</div><div class="lg"><i class="l" style="background:#00e676"></i>Trecho selecionado</div></div>
+<div id="legend"><div class="lg"><i class="l" style="background:#00c2d7"></i>Rede MT</div><div class="lg"><i class="l" style="background:#777"></i>Alimentador próximo selecionável</div><div class="lg"><i class="l dash"></i>Continuidade estimada</div><div class="lg"><i class="l" style="background:#00e676"></i>Trecho selecionado</div></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="app-v3.js"></script>
+<script src="app-v4.js"></script>
 </body></html>
