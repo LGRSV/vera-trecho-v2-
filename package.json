@@ -1,0 +1,10 @@
+{
+  "name": "missao-pcto",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Missão PC-TO — app de estudos para o concurso da Polícia Civil do Tocantins (Oficial Investigador)",
+  "scripts": {
+    "test": "node --test tests/engine.test.mjs tests/dados.test.mjs"
+  }
+}

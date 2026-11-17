@@ -1,0 +1,44 @@
+{
+  "versao": "2026-11-17",
+  "concurso": {
+    "nome": "Polícia Civil do Tocantins — Oficial Investigador de Polícia",
+    "banca": "Cebraspe",
+    "vagas": 323,
+    "salario": "R$ 7.917,97",
+    "formatoPrevisto": "80 questões de múltipla escolha (A–E) + 1 redação de conhecimentos específicos",
+    "notaMinimaPrevista": 40
+  },
+  "disciplinas": [
+    { "nome": "Língua Portuguesa", "grupo": "I", "peso": 8, "prioridade": "A" },
+    { "nome": "Informática", "grupo": "I", "peso": 10, "prioridade": "A" },
+    { "nome": "Raciocínio Lógico", "grupo": "I", "peso": 5, "prioridade": "B" },
+    { "nome": "Contabilidade", "grupo": "I", "peso": 5, "prioridade": "C" },
+    { "nome": "Estatística", "grupo": "I", "peso": 3, "prioridade": "C" },
+    { "nome": "Administração e Orçamento Público", "grupo": "I", "peso": 3, "prioridade": "C" },
+    { "nome": "História e Geografia do Tocantins", "grupo": "I", "peso": 2, "prioridade": "B" },
+    { "nome": "Direito Penal", "grupo": "II", "peso": 8, "prioridade": "A" },
+    { "nome": "Direito Processual Penal", "grupo": "II", "peso": 7, "prioridade": "A" },
+    { "nome": "Direito Administrativo / Legislação institucional", "grupo": "II", "peso": 6, "prioridade": "A" },
+    { "nome": "Direito Constitucional", "grupo": "II", "peso": 6, "prioridade": "A" },
+    { "nome": "Legislação Penal Especial", "grupo": "II", "peso": 7, "prioridade": "A" },
+    { "nome": "Direitos Humanos", "grupo": "II", "peso": 4, "prioridade": "B" },
+    { "nome": "Medicina Legal", "grupo": "II", "peso": 4, "prioridade": "B" },
+    { "nome": "Criminologia", "grupo": "II", "peso": 2, "prioridade": "C" }
+  ],
+  "marcos": [
+    { "nome": "Contrato com o Cebraspe publicado", "data": "2026-11-16", "status": "confirmado", "fonte": "Diário Oficial do TO" },
+    { "nome": "Aviso automático do edital ativado", "data": "2026-11-17", "status": "confirmado", "fonte": "Tarefa diária às 8h44" },
+    { "nome": "Edital (promessa do governador)", "data": "2026-12-04", "status": "previsto", "fonte": "Fala do governador em 16/11/2026" },
+    { "nome": "Prova objetiva e redação", "data": "2027-04-29", "status": "estimado", "fonte": "Estimativa pelo ritmo da PC-MA (146 dias após o edital)" }
+  ],
+  "fontes": [
+    { "para": "Lei seca", "nome": "Planalto · Câmara (Legin) · Senado", "url": "https://www.planalto.gov.br/ccivil_03/" },
+    { "para": "Novidades de lei (olhar policial)", "nome": "PC-SC — Atualização legislativa", "url": "https://pc.sc.gov.br/" },
+    { "para": "Jurisprudência", "nome": "Dizer o Direito", "url": "https://www.dizerodireito.com.br/" },
+    { "para": "Provas anteriores", "nome": "PCI Concursos — provas", "url": "https://www.pciconcursos.com.br/provas/" },
+    { "para": "Cursos com certificado", "nome": "Senado — Saberes (ILB)", "url": "https://saberes.senado.leg.br/" },
+    { "para": "Informática e golpes", "nome": "CERT.br — Cartilha de Segurança", "url": "https://cartilha.cert.br/" },
+    { "para": "Regionais do TO", "nome": "IPEA — Situação Social do Tocantins (PDF)", "url": "https://repositorio.ipea.gov.br/bitstream/11058/10029/1/situacao_social_tocantins.pdf" },
+    { "para": "Estatuto da PC-TO", "nome": "Lei 3.461/2019 (AL-TO)", "url": "https://al.to.leg.br/arquivo/62254" }
+  ]
+}

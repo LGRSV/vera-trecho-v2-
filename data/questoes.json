@@ -1,0 +1,1466 @@
+{
+ "versao": "simulado-inedito-01",
+ "gerado_em": "2026-11-17",
+ "texto_I": "A investigação criminal moderna não se resume à busca por confissões. Nas últimas décadas, a prova técnica ganhou protagonismo: vestígios coletados no local do crime, registros digitais e movimentações financeiras passaram a dizer mais sobre os fatos do que muitos depoimentos. Essa mudança, contudo, exige cuidado redobrado. Um vestígio mal acondicionado pode perder seu valor probatório, e um dado extraído sem autorização judicial, quando ela é exigida, pode contaminar todo o processo.<br/><br/>Por isso, o trabalho do investigador combina técnica e legalidade. Não basta descobrir quem praticou o crime; é preciso demonstrar como se chegou a essa conclusão, de modo que o caminho percorrido possa ser verificado por qualquer pessoa. É nesse ponto que a documentação de cada etapa deixa de ser burocracia e se torna garantia: para a sociedade, que espera respostas, e para o investigado, que tem direito a um processo justo.<br/><br/>Em um cenário de criminalidade cada vez mais organizada, a eficiência policial depende menos da força e mais da inteligência. Investigar bem, afinal, é investigar dentro da lei.",
+ "questoes": [
+  {
+   "n": 1,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": true,
+   "enun": "De acordo com o Texto I,",
+   "opts": [
+    "a documentação de cada etapa da investigação funciona como garantia tanto para a sociedade quanto para o investigado.",
+    "a eficiência policial depende essencialmente do uso da força diante da criminalidade organizada.",
+    "a prova testemunhal deixou de ter qualquer valor na investigação criminal moderna.",
+    "a confissão continua sendo o principal meio de prova na investigação moderna.",
+    "dados extraídos sem autorização judicial são válidos sempre que ajudarem a esclarecer o crime."
+   ],
+   "resp": "A",
+   "com": "O 2º parágrafo afirma que a documentação “se torna garantia: para a sociedade [...] e para o investigado”. As demais extrapolam ou contrariam o texto (ele diz “mais do que muitos depoimentos”, não que eles perderam todo o valor).",
+   "base": "Interpretação de texto.",
+   "prev": ""
+  },
+  {
+   "n": 2,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": true,
+   "enun": "No trecho “Essa mudança, contudo, exige cuidado redobrado”, o termo “contudo” estabelece, entre as ideias, relação de",
+   "opts": [
+    "oposição.",
+    "condição.",
+    "conclusão.",
+    "explicação.",
+    "finalidade."
+   ],
+   "resp": "A",
+   "com": "“Contudo” é conjunção adversativa (equivale a “porém”, “entretanto”): opõe a valorização da prova técnica ao cuidado que ela exige.",
+   "base": "Conjunções coordenativas adversativas.",
+   "prev": ""
+  },
+  {
+   "n": 3,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": true,
+   "enun": "Em “Por isso, o trabalho do investigador combina técnica e legalidade”, a expressão “Por isso” introduz",
+   "opts": [
+    "uma concessão em relação ao parágrafo anterior.",
+    "uma circunstância de tempo.",
+    "uma comparação entre técnica e legalidade.",
+    "uma alternância entre ideias.",
+    "uma conclusão em relação ao que foi dito no parágrafo anterior."
+   ],
+   "resp": "E",
+   "com": "“Por isso” tem valor conclusivo/consecutivo: como a prova técnica exige cuidado (1º parágrafo), o trabalho combina técnica e legalidade.",
+   "base": "Coesão: conectivos conclusivos.",
+   "prev": ""
+  },
+  {
+   "n": 4,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": false,
+   "enun": "Assinale a opção em que o emprego do sinal indicativo de crase está correto.",
+   "opts": [
+    "A equipe foi à Brasília acompanhar a operação.",
+    "O investigador começou à analisar os registros.",
+    "O laudo foi entregue à cada um dos envolvidos.",
+    "Os agentes chegaram à pé ao local.",
+    "O delegado referiu-se à testemunha que estava no local."
+   ],
+   "resp": "E",
+   "com": "“Referir-se a” + artigo “a” (a testemunha) = à. Não há crase antes de verbo (a analisar), de nome de cidade sem artigo (a Brasília), de “cada” e de palavra masculina (a pé).",
+   "base": "Regência e crase.",
+   "prev": ""
+  },
+  {
+   "n": 5,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": false,
+   "enun": "Assinale a opção correta quanto à concordância verbal e nominal.",
+   "opts": [
+    "Fazem dez anos que o crime foi praticado.",
+    "Devem haver outras provas no processo.",
+    "Anexo seguem os documentos solicitados.",
+    "Existem indícios suficientes de autoria no inquérito.",
+    "Houveram muitas denúncias anônimas na semana passada."
+   ],
+   "resp": "D",
+   "com": "“Existir” concorda com o sujeito (indícios). “Fazer” (tempo) e “haver” (existir) são impessoais: faz, houve, deve haver. “Anexo” concorda com o substantivo: “Anexos seguem os documentos”.",
+   "base": "Concordância verbal e nominal.",
+   "prev": ""
+  },
+  {
+   "n": 6,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": true,
+   "enun": "No trecho “um dado extraído sem autorização judicial, quando ela é exigida, pode contaminar todo o processo”, o pronome “ela” retoma",
+   "opts": [
+    "mudança.",
+    "autorização judicial.",
+    "dado.",
+    "prova técnica.",
+    "investigação."
+   ],
+   "resp": "B",
+   "com": "O pronome feminino retoma o termo mais próximo compatível: “autorização judicial”.",
+   "base": "Coesão referencial.",
+   "prev": ""
+  },
+  {
+   "n": 7,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": false,
+   "enun": "Assinale a opção corretamente pontuada.",
+   "opts": [
+    "Era necessário, que o laudo fosse refeito.",
+    "Os agentes que participaram da operação, foram elogiados.",
+    "A equipe, chegou cedo ao local do crime.",
+    "O investigador, analisou os registros com cuidado.",
+    "Os vestígios, quando bem preservados, fortalecem a prova."
+   ],
+   "resp": "E",
+   "com": "Oração adverbial intercalada fica entre vírgulas. Não se separa sujeito de verbo nem verbo da oração subjetiva.",
+   "base": "Pontuação.",
+   "prev": ""
+  },
+  {
+   "n": 8,
+   "grupo": "I",
+   "disc": "Língua Portuguesa",
+   "texto": false,
+   "enun": "Segundo o Manual de Redação da Presidência da República, em comunicação oficial dirigida a Governador de Estado,",
+   "opts": [
+    "usa-se “Vossa Excelência”, e verbos e pronomes concordam na 3ª pessoa.",
+    "usa-se “Vossa Excelência”, com os possessivos “vosso” e “vossa”.",
+    "usa-se “Vossa Senhoria”, e o verbo vai para a 2ª pessoa do plural.",
+    "dispensa-se o uso de pronome de tratamento.",
+    "usa-se “Vossa Magnificência”, tratamento próprio de chefes do Executivo."
+   ],
+   "resp": "A",
+   "com": "Governadores recebem “Vossa Excelência”. Pronomes de tratamento levam verbo e possessivo na 3ª pessoa (“Vossa Excelência decidiu sobre seu pedido”). “Magnificência” é para reitores.",
+   "base": "Manual de Redação da Presidência da República (redação oficial).",
+   "prev": ""
+  },
+  {
+   "n": 9,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Assinale a opção que define corretamente phishing.",
+   "opts": [
+    "Golpe em que o fraudador tenta obter dados pessoais e financeiros da vítima por meio de mensagens ou páginas que se passam por instituições conhecidas.",
+    "Ataque que torna um serviço indisponível pelo excesso de requisições.",
+    "Programa que se propaga automaticamente pela rede, sem intervenção do usuário.",
+    "Técnica de cópia de segurança de arquivos em nuvem.",
+    "Código que criptografa os dados da vítima e exige resgate."
+   ],
+   "resp": "A",
+   "com": "Phishing usa engenharia social (falsa mensagem de banco, órgão público etc.). As outras descrevem worm, negação de serviço (DoS), ransomware e backup.",
+   "base": "CERT.br — Cartilha de Segurança para Internet.",
+   "prev": ""
+  },
+  {
+   "n": 10,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Os arquivos de um computador de uma delegacia foram criptografados, e uma mensagem exige pagamento em criptomoeda para liberá-los. Trata-se de",
+   "opts": [
+    "spyware.",
+    "ransomware.",
+    "keylogger.",
+    "botnet.",
+    "adware."
+   ],
+   "resp": "B",
+   "com": "Ransomware sequestra dados (criptografa) e cobra resgate.",
+   "base": "CERT.br — códigos maliciosos.",
+   "prev": ""
+  },
+  {
+   "n": 11,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Acerca de cópias de segurança (backup), assinale a opção correta.",
+   "opts": [
+    "O backup diferencial diminui de tamanho a cada dia desde o último backup completo.",
+    "O backup incremental copia os arquivos criados ou alterados desde o último backup realizado, completo ou incremental.",
+    "O backup diferencial copia apenas os arquivos alterados desde o último backup incremental.",
+    "O backup completo copia apenas os arquivos modificados no dia.",
+    "Para restaurar backups incrementais, basta o último incremental, dispensando o backup completo."
+   ],
+   "resp": "B",
+   "com": "Incremental: desde o último backup de qualquer tipo. Diferencial: desde o último completo (por isso cresce a cada dia). A restauração incremental exige o completo + todos os incrementais.",
+   "base": "Conceitos de backup.",
+   "prev": ""
+  },
+  {
+   "n": 12,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Em uma planilha, a célula C1 contém a fórmula =A1*$B$1. Se essa fórmula for copiada para a célula C2, ela passará a ser",
+   "opts": [
+    "=B2*$B$1",
+    "=A2*$B$2",
+    "=A1*$B$1",
+    "=A2*B2",
+    "=A2*$B$1"
+   ],
+   "resp": "E",
+   "com": "A referência relativa (A1) se ajusta à nova linha (A2); a absoluta ($B$1) não muda.",
+   "base": "Planilhas: referências relativas e absolutas.",
+   "prev": ""
+  },
+  {
+   "n": 13,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Segundo a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), é exemplo de dado pessoal sensível",
+   "opts": [
+    "o número do telefone celular.",
+    "a placa de um veículo.",
+    "o endereço de e-mail profissional.",
+    "o dado biométrico vinculado a uma pessoa natural.",
+    "o endereço residencial."
+   ],
+   "resp": "D",
+   "com": "Dado sensível: origem racial ou étnica, convicção religiosa, opinião política, filiação sindical, saúde, vida sexual, dado genético ou biométrico vinculado a pessoa natural.",
+   "base": "LGPD, art. 5º, II.",
+   "prev": ""
+  },
+  {
+   "n": 14,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Quanto ao tratamento de dados pessoais realizado para fins exclusivos de investigação e repressão de infrações penais, a LGPD",
+   "opts": [
+    "proíbe o compartilhamento de dados entre órgãos policiais.",
+    "aplica-se apenas às polícias federais.",
+    "exige autorização prévia da ANPD em cada investigação.",
+    "aplica-se integralmente, inclusive quanto à exigência de consentimento do titular.",
+    "não se aplica, devendo esse tratamento ser regido por legislação específica."
+   ],
+   "resp": "E",
+   "com": "A LGPD exclui de seu alcance o tratamento para fins exclusivos de segurança pública e de investigação e repressão de infrações penais, que deve ser regido por lei específica.",
+   "base": "LGPD, art. 4º, III, “d”, e § 1º.",
+   "prev": "Informática cobrou LGPD na PC-MA 2026."
+  },
+  {
+   "n": 15,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "É exemplo de autenticação em dois fatores:",
+   "opts": [
+    "PIN e data de nascimento.",
+    "senha e código gerado por aplicativo no celular.",
+    "nome de usuário e senha.",
+    "senha e pergunta secreta.",
+    "duas senhas diferentes."
+   ],
+   "resp": "B",
+   "com": "Dois fatores = categorias diferentes: algo que você sabe (senha) + algo que você tem (celular) ou é (biometria). Senha + pergunta secreta são ambos “algo que sabe”.",
+   "base": "Segurança da informação.",
+   "prev": ""
+  },
+  {
+   "n": 16,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Um órgão passou a usar um serviço de e-mail acessado pelo navegador, sem instalar nem manter servidores ou programas próprios. Esse modelo de computação em nuvem é o",
+   "opts": [
+    "IaaS (infraestrutura como serviço).",
+    "on-premises (local).",
+    "PaaS (plataforma como serviço).",
+    "SaaS (software como serviço).",
+    "intranet corporativa."
+   ],
+   "resp": "D",
+   "com": "SaaS entrega o software pronto pela internet. IaaS entrega máquinas/infraestrutura; PaaS, ambiente para desenvolver aplicações.",
+   "base": "Computação em nuvem.",
+   "prev": ""
+  },
+  {
+   "n": 17,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "No contexto da inteligência artificial generativa, o termo “alucinação” refere-se à",
+   "opts": [
+    "falha de hardware causada por superaquecimento.",
+    "produção de respostas com aparência plausível, mas incorretas ou inventadas.",
+    "criação de imagens a partir de texto.",
+    "bloqueio de conteúdo por filtros de segurança.",
+    "etapa de treinamento com dados rotulados."
+   ],
+   "resp": "B",
+   "com": "Alucinação é quando o modelo “inventa” fatos com segurança aparente; por isso, toda resposta de IA deve ser conferida em fonte confiável.",
+   "base": "IA generativa.",
+   "prev": "IA foi conteúdo da PC-MA 2026."
+  },
+  {
+   "n": 18,
+   "grupo": "I",
+   "disc": "Informática",
+   "texto": false,
+   "enun": "Sobre blockchain, assinale a opção correta.",
+   "opts": [
+    "Impede qualquer tipo de fraude envolvendo criptomoedas.",
+    "É um registro distribuído em que os blocos são encadeados por funções hash, o que dificulta alterar registros antigos sem que a alteração seja detectada.",
+    "Garante o anonimato absoluto das transações, impossibilitando qualquer rastreamento.",
+    "É um tipo de vírus usado para minerar criptomoedas.",
+    "É um banco de dados centralizado mantido obrigatoriamente pelo Banco Central."
+   ],
+   "resp": "B",
+   "com": "O encadeamento por hash dá integridade ao histórico. Transações em blockchains públicas podem ser rastreadas (pseudonimato, não anonimato absoluto), o que é útil à investigação.",
+   "base": "Criptomoedas e blockchain.",
+   "prev": "Criptomoedas foram conteúdo da PC-MA 2026."
+  },
+  {
+   "n": 19,
+   "grupo": "I",
+   "disc": "Raciocínio Lógico",
+   "texto": false,
+   "enun": "A negação da proposição “Se o suspeito estava no local, então ele viu o crime” é",
+   "opts": [
+    "“O suspeito não estava no local e viu o crime.”",
+    "“Se o suspeito não estava no local, então não viu o crime.”",
+    "“O suspeito estava no local e não viu o crime.”",
+    "“Se o suspeito viu o crime, então estava no local.”",
+    "“O suspeito não estava no local ou não viu o crime.”"
+   ],
+   "resp": "C",
+   "com": "¬(P → Q) ≡ P ∧ ¬Q: mantém o antecedente e nega o consequente.",
+   "base": "Lógica proposicional.",
+   "prev": ""
+  },
+  {
+   "n": 20,
+   "grupo": "I",
+   "disc": "Raciocínio Lógico",
+   "texto": false,
+   "enun": "É logicamente equivalente a “Se chove, então a operação é adiada”:",
+   "opts": [
+    "“Se não chove, então a operação não é adiada.”",
+    "“Se a operação não é adiada, então não chove.”",
+    "“Chove e a operação é adiada.”",
+    "“Chove ou a operação não é adiada.”",
+    "“Se a operação é adiada, então chove.”"
+   ],
+   "resp": "B",
+   "com": "Contrapositiva: P → Q ≡ ¬Q → ¬P. A recíproca (Q → P) e a inversa (¬P → ¬Q) não são equivalentes.",
+   "base": "Equivalências lógicas.",
+   "prev": ""
+  },
+  {
+   "n": 21,
+   "grupo": "I",
+   "disc": "Raciocínio Lógico",
+   "texto": false,
+   "enun": "A negação de “O investigador é atento e o delegado é rigoroso” é",
+   "opts": [
+    "“O investigador não é atento ou o delegado não é rigoroso.”",
+    "“Se o investigador não é atento, então o delegado é rigoroso.”",
+    "“O investigador é atento ou o delegado é rigoroso.”",
+    "“O investigador não é atento se, e somente se, o delegado não é rigoroso.”",
+    "“O investigador não é atento e o delegado não é rigoroso.”"
+   ],
+   "resp": "A",
+   "com": "Lei de De Morgan: ¬(P ∧ Q) ≡ ¬P ∨ ¬Q.",
+   "base": "Leis de De Morgan.",
+   "prev": ""
+  },
+  {
+   "n": 22,
+   "grupo": "I",
+   "disc": "Raciocínio Lógico",
+   "texto": false,
+   "enun": "Uma equipe de 3 policiais será formada a partir de um grupo de 6 oficiais investigadores, sem distinção de função. O número de equipes diferentes possíveis é",
+   "opts": [
+    "18",
+    "20",
+    "60",
+    "120",
+    "216"
+   ],
+   "resp": "B",
+   "com": "Combinação simples: C(6,3) = 6!/(3!·3!) = 20. (120 seria arranjo, em que a ordem importa.)",
+   "base": "Análise combinatória.",
+   "prev": ""
+  },
+  {
+   "n": 23,
+   "grupo": "I",
+   "disc": "Raciocínio Lógico",
+   "texto": false,
+   "enun": "Uma urna contém 4 bolas vermelhas e 6 azuis. Retirando-se 2 bolas, sem reposição, a probabilidade de ambas serem azuis é",
+   "opts": [
+    "1/5",
+    "3/10",
+    "1/3",
+    "9/25",
+    "2/5"
+   ],
+   "resp": "C",
+   "com": "6/10 × 5/9 = 30/90 = 1/3. (9/25 seria com reposição.)",
+   "base": "Probabilidade.",
+   "prev": ""
+  },
+  {
+   "n": 24,
+   "grupo": "I",
+   "disc": "Contabilidade",
+   "texto": false,
+   "enun": "Uma empresa apresenta ativo de R$ 500.000,00 e passivo exigível de R$ 200.000,00. O valor do patrimônio líquido é",
+   "opts": [
+    "R$ 200.000,00",
+    "R$ 250.000,00",
+    "R$ 300.000,00",
+    "R$ 500.000,00",
+    "R$ 700.000,00"
+   ],
+   "resp": "C",
+   "com": "Equação patrimonial: Ativo = Passivo + PL → PL = 500.000 − 200.000 = 300.000.",
+   "base": "Equação patrimonial.",
+   "prev": "Possível: a PC-MA 2026 cobrou Contabilidade."
+  },
+  {
+   "n": 25,
+   "grupo": "I",
+   "disc": "Contabilidade",
+   "texto": false,
+   "enun": "É exemplo de fato contábil permutativo:",
+   "opts": [
+    "pagamento de duplicata com juros de atraso.",
+    "pagamento dos salários do mês.",
+    "recebimento de juros sobre aplicação.",
+    "compra de um veículo à vista.",
+    "venda de mercadoria com lucro."
+   ],
+   "resp": "D",
+   "com": "Permutativo troca elementos do patrimônio sem alterar o PL (sai caixa, entra veículo). Salários e juros são modificativos; duplicata com juros e venda com lucro são mistos.",
+   "base": "Fatos contábeis.",
+   "prev": "Possível: a PC-MA 2026 cobrou Contabilidade."
+  },
+  {
+   "n": 26,
+   "grupo": "I",
+   "disc": "Contabilidade",
+   "texto": false,
+   "enun": "Assinale a opção correta quanto à natureza dos saldos das contas.",
+   "opts": [
+    "As contas de despesa aumentam por crédito.",
+    "As contas do passivo aumentam por débito.",
+    "As contas de receita têm natureza devedora.",
+    "O patrimônio líquido tem natureza devedora.",
+    "As contas do ativo, em regra, aumentam por débito e diminuem por crédito."
+   ],
+   "resp": "E",
+   "com": "Ativo e despesas: natureza devedora. Passivo, PL e receitas: natureza credora.",
+   "base": "Método das partidas dobradas.",
+   "prev": "Possível."
+  },
+  {
+   "n": 27,
+   "grupo": "I",
+   "disc": "Contabilidade",
+   "texto": false,
+   "enun": "Acerca das demonstrações contábeis, assinale a opção correta.",
+   "opts": [
+    "O balanço patrimonial evidencia o resultado do exercício.",
+    "O balanço patrimonial é dispensado para companhias abertas.",
+    "A demonstração do resultado do exercício evidencia o lucro ou o prejuízo do período, confrontando receitas, custos e despesas.",
+    "A demonstração do resultado apresenta a posição patrimonial em determinada data.",
+    "Receitas e despesas são registradas diretamente no ativo e no passivo."
+   ],
+   "resp": "C",
+   "com": "BP = fotografia do patrimônio em uma data; DRE = resultado de um período.",
+   "base": "Lei nº 6.404/1976; demonstrações contábeis.",
+   "prev": "Possível."
+  },
+  {
+   "n": 28,
+   "grupo": "I",
+   "disc": "Contabilidade",
+   "texto": false,
+   "enun": "Pelo regime de competência,",
+   "opts": [
+    "o salário de dezembro, pago em janeiro, é despesa de janeiro, data do pagamento.",
+    "a receita só pode ser reconhecida quando recebida em dinheiro.",
+    "o salário de dezembro, pago apenas em janeiro, é despesa de dezembro.",
+    "a despesa paga antecipadamente é reconhecida integralmente no mês do pagamento.",
+    "receitas e despesas são reconhecidas apenas no encerramento do exercício."
+   ],
+   "resp": "C",
+   "com": "Competência: reconhece-se no período do fato gerador, independentemente de pagamento ou recebimento.",
+   "base": "Regime de competência.",
+   "prev": "Possível."
+  },
+  {
+   "n": 29,
+   "grupo": "I",
+   "disc": "Estatística",
+   "texto": false,
+   "enun": "Em cinco dias, uma delegacia registrou 2, 3, 3, 5 e 7 ocorrências. A média, a mediana e a moda desses dados são, respectivamente,",
+   "opts": [
+    "4, 5 e 3.",
+    "4, 3 e 7.",
+    "3, 3 e 4.",
+    "5, 3 e 3.",
+    "4, 3 e 3."
+   ],
+   "resp": "E",
+   "com": "Média = 20/5 = 4; mediana (valor central, dados ordenados) = 3; moda (mais frequente) = 3.",
+   "base": "Medidas de posição.",
+   "prev": "Possível: a PC-MA 2026 cobrou Estatística."
+  },
+  {
+   "n": 30,
+   "grupo": "I",
+   "disc": "Estatística",
+   "texto": false,
+   "enun": "Se 10 unidades forem somadas a cada valor de um conjunto de dados,",
+   "opts": [
+    "a média permanecerá a mesma, e o desvio padrão aumentará 10 unidades.",
+    "a média será multiplicada por 10, e o desvio padrão também.",
+    "a média aumentará 10 unidades, e o desvio padrão permanecerá o mesmo.",
+    "a média aumentará 10 unidades, e o desvio padrão será reduzido a zero.",
+    "a média e o desvio padrão aumentarão 10 unidades."
+   ],
+   "resp": "C",
+   "com": "Somar uma constante desloca a média, mas não altera a dispersão (desvio padrão e variância).",
+   "base": "Propriedades da média e do desvio padrão.",
+   "prev": "Possível."
+  },
+  {
+   "n": 31,
+   "grupo": "I",
+   "disc": "Estatística",
+   "texto": false,
+   "enun": "Na amostragem estratificada,",
+   "opts": [
+    "a população é dividida em grupos homogêneos (estratos), e sorteiam-se elementos de cada um deles.",
+    "sorteia-se um ponto de partida e seleciona-se um elemento a cada k elementos.",
+    "escolhem-se os elementos mais fáceis de acessar.",
+    "pesquisa-se toda a população.",
+    "sorteiam-se grupos inteiros, pesquisando-se todos os elementos dos grupos sorteados."
+   ],
+   "resp": "A",
+   "com": "As demais descrevem amostragem por conveniência, sistemática, por conglomerados e censo.",
+   "base": "Técnicas de amostragem.",
+   "prev": "Possível."
+  },
+  {
+   "n": 32,
+   "grupo": "I",
+   "disc": "Administração e Orçamento Público",
+   "texto": false,
+   "enun": "Segundo a Lei nº 4.320/1964, a sequência correta dos estágios da despesa pública é",
+   "opts": [
+    "liquidação, pagamento e empenho.",
+    "pagamento, empenho e liquidação.",
+    "empenho, liquidação e pagamento.",
+    "liquidação, empenho e pagamento.",
+    "empenho, pagamento e liquidação."
+   ],
+   "resp": "C",
+   "com": "Empenha-se (reserva), liquida-se (verifica o direito do credor) e paga-se.",
+   "base": "Lei nº 4.320/1964, arts. 58 a 64.",
+   "prev": "Possível: a PC-MA 2026 cobrou orçamento."
+  },
+  {
+   "n": 33,
+   "grupo": "I",
+   "disc": "Administração e Orçamento Público",
+   "texto": false,
+   "enun": "Acerca dos restos a pagar, assinale a opção correta.",
+   "opts": [
+    "São processados os restos a pagar ainda não liquidados.",
+    "São despesas empenhadas e não pagas até 31 de dezembro; são processados os que já foram liquidados.",
+    "São receitas arrecadadas e não recolhidas até 31 de dezembro.",
+    "Só podem ser inscritos com autorização prévia do tribunal de contas.",
+    "São despesas não empenhadas que serão pagas no exercício seguinte."
+   ],
+   "resp": "B",
+   "com": "Restos a pagar = empenhadas e não pagas no exercício; distinguem-se processados (liquidados) e não processados (não liquidados).",
+   "base": "Lei nº 4.320/1964, art. 36.",
+   "prev": "Possível."
+  },
+  {
+   "n": 34,
+   "grupo": "I",
+   "disc": "Administração e Orçamento Público",
+   "texto": false,
+   "enun": "A Constituição Federal determina que a lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa. Esse é o princípio orçamentário da",
+   "opts": [
+    "publicidade.",
+    "unidade.",
+    "universalidade.",
+    "exclusividade.",
+    "anualidade."
+   ],
+   "resp": "D",
+   "com": "Exclusividade: a LOA só trata de receita e despesa, ressalvadas autorizações para créditos suplementares e operações de crédito.",
+   "base": "CF, art. 165, § 8º.",
+   "prev": "Possível."
+  },
+  {
+   "n": 35,
+   "grupo": "I",
+   "disc": "História e Geografia do Tocantins",
+   "texto": false,
+   "enun": "O Tocantins foi criado pela Constituição Federal de 1988, a partir do norte de Goiás, e instalado em 1º de janeiro de 1989. A capital provisória do novo estado foi",
+   "opts": [
+    "Porto Nacional.",
+    "Gurupi.",
+    "Miracema do Tocantins.",
+    "Araguaína.",
+    "Paraíso do Tocantins."
+   ],
+   "resp": "C",
+   "com": "Miracema do Tocantins foi a capital provisória até a transferência para Palmas, cidade planejada.",
+   "base": "História do Tocantins.",
+   "prev": "Regionais caíram na PC-TO 2014."
+  },
+  {
+   "n": 36,
+   "grupo": "I",
+   "disc": "História e Geografia do Tocantins",
+   "texto": false,
+   "enun": "A maior ilha fluvial do mundo, localizada no Tocantins e formada pelo rio Araguaia e por seu braço, o rio Javaés, é a",
+   "opts": [
+    "Ilha do Bananal.",
+    "Ilha de Itaparica.",
+    "Ilha do Cardoso.",
+    "Ilha Comprida.",
+    "Ilha de Marajó."
+   ],
+   "resp": "A",
+   "com": "A Ilha do Bananal fica no oeste do estado. Marajó (PA) é fluviomarinha.",
+   "base": "Geografia do Tocantins.",
+   "prev": "Regionais caíram na PC-TO 2014."
+  },
+  {
+   "n": 37,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Com a Lei nº 15.397/2026, o furto praticado durante o repouso noturno",
+   "opts": [
+    "tem a pena aumentada de metade.",
+    "tem a pena aumentada de um sexto a dois terços.",
+    "tem a pena aumentada de um terço.",
+    "tem a pena aplicada em dobro.",
+    "deixou de ser causa de aumento de pena."
+   ],
+   "resp": "A",
+   "com": "O § 1º do art. 155 do CP passou de 1/3 para metade (Lei nº 15.397, de 30/04/2026, publicada em 04/05/2026).",
+   "base": "CP, art. 155, § 1º (red. Lei nº 15.397/2026).",
+   "prev": "Novidade 2026 (Lei nº 15.397/2026)."
+  },
+  {
+   "n": 38,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Quanto à ação penal no crime de estelionato após a Lei nº 15.397/2026, é correto afirmar que",
+   "opts": [
+    "o estelionato continua dependendo, em regra, de representação da vítima.",
+    "o estelionato passou a depender de requisição do Ministro da Justiça.",
+    "o estelionato foi transformado em contravenção penal.",
+    "o estelionato passou a ser crime de ação penal privada.",
+    "a revogação do § 5º do art. 171 do Código Penal fez o estelionato voltar a ser, em regra, crime de ação penal pública incondicionada."
+   ],
+   "resp": "E",
+   "com": "A Lei nº 15.397/2026 revogou expressamente o § 5º do art. 171, que exigia representação desde 2019.",
+   "base": "Lei nº 15.397/2026, art. 3º; CP, art. 171.",
+   "prev": "Novidade 2026 (Lei nº 15.397/2026)."
+  },
+  {
+   "n": 39,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Acerca do feminicídio, assinale a opção correta.",
+   "opts": [
+    "É crime autônomo, previsto no art. 121-A do Código Penal, punido com reclusão de 20 a 40 anos.",
+    "Exige que autor e vítima tenham relação de convivência.",
+    "É crime autônomo punido com reclusão de 12 a 30 anos.",
+    "Não integra o rol de crimes hediondos.",
+    "É qualificadora do homicídio, punida com reclusão de 12 a 30 anos."
+   ],
+   "resp": "A",
+   "com": "A Lei nº 14.994/2024 tornou o feminicídio crime autônomo (art. 121-A) e hediondo, com pena de 20 a 40 anos. As razões de gênero incluem também menosprezo ou discriminação à condição de mulher.",
+   "base": "CP, art. 121-A; Lei nº 8.072/1990, art. 1º, I-B.",
+   "prev": "Alta incidência (Lei nº 14.994/2024)."
+  },
+  {
+   "n": 40,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Com intenção de matar, Tício atira em Mévio e o atinge na perna, causando lesão leve. Podendo continuar atirando, Tício desiste voluntariamente e vai embora. Nessa situação, Tício",
+   "opts": [
+    "será beneficiado pelo arrependimento posterior, com redução de pena.",
+    "responderá apenas pela lesão corporal efetivamente causada.",
+    "responderá por homicídio consumado.",
+    "não responderá por crime algum.",
+    "responderá por tentativa de homicídio, com redução de 1/3 a 2/3."
+   ],
+   "resp": "B",
+   "com": "Desistência voluntária: o agente que desiste de prosseguir na execução só responde pelos atos já praticados (aqui, a lesão corporal).",
+   "base": "CP, art. 15.",
+   "prev": ""
+  },
+  {
+   "n": 41,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Acerca do arrependimento posterior, assinale a opção correta.",
+   "opts": [
+    "Aplica-se até a sentença, em qualquer crime.",
+    "Nos crimes cometidos sem violência ou grave ameaça, reparado o dano ou restituída a coisa até o recebimento da denúncia, por ato voluntário do agente, a pena é reduzida de 1/3 a 2/3.",
+    "Reduz a pena de 1/6 a 1/2.",
+    "Aplica-se ao roubo, desde que a coisa seja devolvida.",
+    "Extingue a punibilidade do agente."
+   ],
+   "resp": "B",
+   "com": "Requisitos: sem violência/grave ameaça; reparação ou restituição; até o recebimento da denúncia ou queixa; ato voluntário. Efeito: redução de 1/3 a 2/3.",
+   "base": "CP, art. 16.",
+   "prev": ""
+  },
+  {
+   "n": 42,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Quanto à legítima defesa, assinale a opção correta.",
+   "opts": [
+    "Admite-se legítima defesa contra agressão justa.",
+    "A legítima defesa exige agressão futura e certa.",
+    "Considera-se em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes, observados os requisitos legais.",
+    "Dispensa-se o uso moderado dos meios necessários.",
+    "Somente direito próprio pode ser defendido."
+   ],
+   "resp": "C",
+   "com": "O parágrafo único do art. 25 (Lei nº 13.964/2019) prevê a hipótese do agente de segurança pública e a vítima refém. A agressão deve ser injusta, atual ou iminente, a direito próprio ou de outrem.",
+   "base": "CP, art. 25 e parágrafo único.",
+   "prev": ""
+  },
+  {
+   "n": 43,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "Um policial exige dinheiro de um comerciante para não registrar uma ocorrência contra ele. Essa conduta caracteriza",
+   "opts": [
+    "peculato.",
+    "prevaricação.",
+    "corrupção ativa.",
+    "concussão.",
+    "corrupção passiva."
+   ],
+   "resp": "D",
+   "com": "“Exigir” vantagem indevida em razão da função é concussão (art. 316). Na corrupção passiva, o verbo é solicitar, receber ou aceitar promessa (art. 317).",
+   "base": "CP, arts. 316 e 317.",
+   "prev": ""
+  },
+  {
+   "n": 44,
+   "grupo": "II",
+   "disc": "Direito Penal",
+   "texto": false,
+   "enun": "No peculato culposo, a reparação do dano",
+   "opts": [
+    "sempre extingue a punibilidade, a qualquer tempo.",
+    "reduz a pena de um terço, qualquer que seja o momento.",
+    "extingue a punibilidade, se precede à sentença irrecorrível; se posterior, reduz de metade a pena imposta.",
+    "aplica-se também ao peculato doloso, com os mesmos efeitos.",
+    "não produz nenhum efeito penal."
+   ],
+   "resp": "C",
+   "com": "Benefício exclusivo do peculato culposo.",
+   "base": "CP, art. 312, § 3º.",
+   "prev": ""
+  },
+  {
+   "n": 45,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Nos crimes previstos na Lei nº 15.358/2026 (Lei Antifacção), o inquérito policial deve ser concluído no prazo de",
+   "opts": [
+    "90 dias, se o indiciado estiver preso, e 270 dias, se estiver solto, prorrogáveis por igual período.",
+    "15 dias, se o indiciado estiver preso, e 90 dias, se estiver solto.",
+    "90 dias, se o indiciado estiver preso, e 180 dias, se estiver solto, improrrogáveis.",
+    "30 dias, se o indiciado estiver preso, e 90 dias, se estiver solto.",
+    "10 dias, se o indiciado estiver preso, e 30 dias, se estiver solto."
+   ],
+   "resp": "A",
+   "com": "Prazos especiais do art. 5º da Lei nº 15.358/2026. A regra geral do CPP (10/30 dias) não se aplica a esses crimes.",
+   "base": "Lei nº 15.358/2026, art. 5º.",
+   "prev": "Novidade 2026 (Lei Antifacção)."
+  },
+  {
+   "n": 46,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Considera-se em flagrante quem é encontrado, logo depois, com instrumentos, armas, objetos ou papéis que façam presumir ser ele o autor da infração. Trata-se do flagrante",
+   "opts": [
+    "presumido (ou ficto).",
+    "impróprio (quase flagrante).",
+    "preparado.",
+    "próprio.",
+    "forjado."
+   ],
+   "resp": "A",
+   "com": "Art. 302: I e II = próprio; III (perseguido logo após) = impróprio; IV (encontrado logo depois com objetos) = presumido. O preparado gera crime impossível (Súmula 145 do STF); o forjado é ilegal.",
+   "base": "CPP, art. 302, IV.",
+   "prev": ""
+  },
+  {
+   "n": 47,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Após a prisão em flagrante, a audiência de custódia deve ser realizada no prazo máximo de",
+   "opts": [
+    "24 horas após a realização da prisão.",
+    "48 horas após a realização da prisão.",
+    "5 dias após a comunicação ao juiz.",
+    "72 horas após a lavratura do auto.",
+    "10 dias, prazo do inquérito com réu preso."
+   ],
+   "resp": "A",
+   "com": "O juiz deve promover a audiência de custódia em até 24 horas, com o preso, o advogado ou defensor e o Ministério Público.",
+   "base": "CPP, art. 310.",
+   "prev": ""
+  },
+  {
+   "n": 48,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Acerca do inquérito policial, assinale a opção correta.",
+   "opts": [
+    "O inquérito é indispensável ao oferecimento da denúncia.",
+    "O inquérito é público, sendo vedado o sigilo.",
+    "No inquérito, é obrigatório o contraditório pleno.",
+    "O delegado pode arquivar o inquérito quando faltarem indícios de autoria.",
+    "A autoridade policial não poderá mandar arquivar autos de inquérito."
+   ],
+   "resp": "E",
+   "com": "O inquérito é dispensável, inquisitivo e sigiloso quando necessário (art. 20); o delegado não arquiva (art. 17).",
+   "base": "CPP, arts. 17 e 20.",
+   "prev": ""
+  },
+  {
+   "n": 49,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Sobre a prisão temporária (Lei nº 7.960/1989), assinale a opção correta.",
+   "opts": [
+    "Pode ser decretada de ofício pelo juiz durante o inquérito.",
+    "Tem prazo de 10 dias, improrrogável.",
+    "É decretada pelo juiz, mediante representação da autoridade policial ou requerimento do Ministério Público, com prazo de 5 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+    "Tem prazo de 30 dias para qualquer crime.",
+    "É cabível durante a ação penal, para garantir a instrução."
+   ],
+   "resp": "C",
+   "com": "Regra: 5 + 5 dias. Nos hediondos e equiparados: 30 + 30 dias (Lei nº 8.072/1990, art. 2º, § 4º). Só cabe na fase de investigação.",
+   "base": "Lei nº 7.960/1989, art. 2º.",
+   "prev": ""
+  },
+  {
+   "n": 50,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Segundo o Código de Processo Penal, cadeia de custódia é",
+   "opts": [
+    "o documento lavrado pelo juiz ao receber a denúncia.",
+    "o registro de presos mantido pela delegacia.",
+    "um procedimento facultativo, aplicável somente a crimes hediondos.",
+    "o conjunto de todos os procedimentos usados para manter e documentar a história cronológica do vestígio coletado, rastreando sua posse e manuseio desde o reconhecimento até o descarte.",
+    "apenas a fase de coleta, encerrada com a chegada do vestígio ao laboratório."
+   ],
+   "resp": "D",
+   "com": "A cadeia de custódia vai do reconhecimento ao descarte e vale para qualquer vestígio. Tema ligado ao trabalho do oficial investigador.",
+   "base": "CPP, arts. 158-A a 158-F.",
+   "prev": ""
+  },
+  {
+   "n": 51,
+   "grupo": "II",
+   "disc": "Direito Processual Penal",
+   "texto": false,
+   "enun": "Acerca da interceptação de comunicações telefônicas (Lei nº 9.296/1996), assinale a opção correta.",
+   "opts": [
+    "Pode durar 60 dias, improrrogáveis.",
+    "Dispensa autorização judicial em casos de urgência.",
+    "Pode ser determinada pelo delegado de polícia.",
+    "Não será admitida quando o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
+    "É admitida na investigação de contravenções penais."
+   ],
+   "resp": "D",
+   "com": "Exige ordem judicial; prazo de 15 dias, renovável por igual tempo se indispensável; não cabe para crimes punidos só com detenção.",
+   "base": "Lei nº 9.296/1996, arts. 1º, 2º, III, e 5º.",
+   "prev": ""
+  },
+  {
+   "n": 52,
+   "grupo": "II",
+   "disc": "Direito Administrativo / Legislação institucional",
+   "texto": false,
+   "enun": "De acordo com a Lei Orgânica Nacional das Polícias Civis (Lei nº 14.735/2023), para o cargo de oficial investigador de polícia exige-se",
+   "opts": [
+    "graduação em área de segurança pública reconhecida pelo MEC.",
+    "bacharelado em Direito.",
+    "ensino médio completo e carteira de habilitação.",
+    "diploma de nível superior e três anos de atividade jurídica ou policial.",
+    "diploma de ensino superior completo, em nível de graduação, em qualquer área, reconhecido pelo MEC."
+   ],
+   "resp": "E",
+   "com": "Literalidade do § 1º do art. 19. O bacharelado em Direito é exigido para delegado.",
+   "base": "Lei nº 14.735/2023, art. 19, § 1º.",
+   "prev": "Lei do próprio cargo (Lei nº 14.735/2023)."
+  },
+  {
+   "n": 53,
+   "grupo": "II",
+   "disc": "Direito Administrativo / Legislação institucional",
+   "texto": false,
+   "enun": "Segundo a Lei nº 14.735/2023, integram o quadro de servidores da polícia civil, com atribuições de nível superior, os cargos de",
+   "opts": [
+    "delegado de polícia, oficial investigador de polícia e perito oficial criminal, este último se o órgão central de perícia oficial de natureza criminal estiver integrado à estrutura da polícia civil.",
+    "delegado de polícia, agente de polícia, escrivão de polícia e papiloscopista.",
+    "oficial investigador de polícia e perito oficial criminal, sendo o delegado de livre nomeação.",
+    "delegado de polícia e oficial investigador de polícia, vedada a integração de peritos.",
+    "delegado de polícia, investigador, escrivão e agente de necrotomia."
+   ],
+   "resp": "A",
+   "com": "O art. 19 lista três cargos, com a condição para o perito oficial criminal.",
+   "base": "Lei nº 14.735/2023, art. 19.",
+   "prev": "Lei do próprio cargo (Lei nº 14.735/2023)."
+  },
+  {
+   "n": 54,
+   "grupo": "II",
+   "disc": "Direito Administrativo / Legislação institucional",
+   "texto": false,
+   "enun": "No Estado do Tocantins, a Lei nº 4.653/2025",
+   "opts": [
+    "criou o cargo de oficial investigador e manteve os cargos de agente e escrivão em extinção gradual, até a aposentadoria dos ocupantes.",
+    "extinguiu os cargos de agente e escrivão, e seus ocupantes foram exonerados.",
+    "extinguiu os cargos de agente de polícia e de escrivão de polícia; seus ocupantes foram aproveitados no cargo de oficial investigador de polícia, mantidas as respectivas classes e referências.",
+    "transformou o cargo de delegado de polícia em oficial investigador.",
+    "extinguiu o cargo de oficial investigador de polícia."
+   ],
+   "resp": "C",
+   "com": "A lei alinhou o Estatuto da Polícia Civil do TO (Lei nº 3.461/2019) à Lei Orgânica Nacional.",
+   "base": "Lei estadual nº 4.653/2025; Lei estadual nº 3.461/2019.",
+   "prev": "Legislação estadual do TO."
+  },
+  {
+   "n": 55,
+   "grupo": "II",
+   "disc": "Direito Administrativo / Legislação institucional",
+   "texto": false,
+   "enun": "A possibilidade de a Administração executar diretamente suas decisões, sem necessidade de prévia ordem judicial, corresponde ao atributo do ato administrativo denominado",
+   "opts": [
+    "motivação.",
+    "tipicidade.",
+    "imperatividade.",
+    "presunção de legitimidade.",
+    "autoexecutoriedade."
+   ],
+   "resp": "E",
+   "com": "Ex.: interdição de estabelecimento ou apreensão de mercadoria imprópria, sem ordem judicial prévia.",
+   "base": "Atributos do ato administrativo.",
+   "prev": ""
+  },
+  {
+   "n": 56,
+   "grupo": "II",
+   "disc": "Direito Administrativo / Legislação institucional",
+   "texto": false,
+   "enun": "Após a Lei nº 14.230/2021, que alterou a Lei de Improbidade Administrativa,",
+   "opts": [
+    "dispensa-se a análise do elemento subjetivo do agente.",
+    "a lei passou a se aplicar apenas a agentes eleitos.",
+    "admite-se a modalidade culposa nos atos que causam prejuízo ao erário.",
+    "somente condutas dolosas configuram ato de improbidade administrativa.",
+    "a improbidade passou a ser crime punido com reclusão."
+   ],
+   "resp": "D",
+   "com": "A lei passou a exigir dolo para todos os tipos de improbidade (arts. 9º, 10 e 11).",
+   "base": "Lei nº 8.429/1992, art. 1º, §§ 1º a 3º (red. Lei nº 14.230/2021).",
+   "prev": ""
+  },
+  {
+   "n": 57,
+   "grupo": "II",
+   "disc": "Direito Administrativo / Legislação institucional",
+   "texto": false,
+   "enun": "NÃO é modalidade de licitação prevista na Lei nº 14.133/2021:",
+   "opts": [
+    "pregão.",
+    "tomada de preços.",
+    "leilão.",
+    "diálogo competitivo.",
+    "concorrência."
+   ],
+   "resp": "B",
+   "com": "Modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Tomada de preços e convite foram extintos.",
+   "base": "Lei nº 14.133/2021, art. 28.",
+   "prev": ""
+  },
+  {
+   "n": 58,
+   "grupo": "II",
+   "disc": "Direito Constitucional",
+   "texto": false,
+   "enun": "Acerca da inviolabilidade do domicílio, assinale a opção correta.",
+   "opts": [
+    "Durante a noite, o ingresso só é possível com ordem judicial.",
+    "Em caso de flagrante delito, é permitido ingressar na casa sem consentimento do morador, a qualquer hora do dia ou da noite.",
+    "O delegado de polícia pode expedir mandado de busca domiciliar.",
+    "O consentimento do morador é irrelevante para o ingresso.",
+    "Por determinação judicial, pode-se ingressar na casa a qualquer hora, inclusive à noite."
+   ],
+   "resp": "B",
+   "com": "Exceções: flagrante, desastre ou socorro (a qualquer hora) e ordem judicial (só durante o dia).",
+   "base": "CF, art. 5º, XI.",
+   "prev": ""
+  },
+  {
+   "n": 59,
+   "grupo": "II",
+   "disc": "Direito Constitucional",
+   "texto": false,
+   "enun": "Acerca do habeas corpus, assinale a opção correta.",
+   "opts": [
+    "Só pode ser impetrado por advogado.",
+    "Protege o acesso a informações pessoais em bancos de dados públicos.",
+    "É substituído pelo mandado de segurança quando a coação parte de autoridade policial.",
+    "Cabe também de forma preventiva, quando alguém se achar ameaçado de sofrer coação ilegal em sua liberdade de locomoção, e sua impetração é gratuita.",
+    "Cabe para discutir o mérito de punições disciplinares militares."
+   ],
+   "resp": "D",
+   "com": "O habeas corpus protege a liberdade de locomoção, pode ser preventivo ou repressivo, dispensa advogado e é gratuito. Acesso a dados pessoais é objeto do habeas data.",
+   "base": "CF, art. 5º, LXVIII e LXXVII; art. 142, § 2º.",
+   "prev": ""
+  },
+  {
+   "n": 60,
+   "grupo": "II",
+   "disc": "Direito Constitucional",
+   "texto": false,
+   "enun": "Segundo a Constituição Federal, o preso tem direito",
+   "opts": [
+    "ao silêncio somente quando interrogado em juízo.",
+    "à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.",
+    "à assistência de advogado somente após o recebimento da denúncia.",
+    "à comunicação da prisão apenas ao Ministério Público.",
+    "à comunicação de sua prisão à família no prazo de 48 horas."
+   ],
+   "resp": "B",
+   "com": "Comunicação imediata ao juiz e à família; direito ao silêncio desde a prisão; identificação dos responsáveis; assistência da família e de advogado.",
+   "base": "CF, art. 5º, LXII, LXIII e LXIV.",
+   "prev": ""
+  },
+  {
+   "n": 61,
+   "grupo": "II",
+   "disc": "Direito Constitucional",
+   "texto": false,
+   "enun": "Assinale a opção correta acerca dos crimes com tratamento constitucional especial.",
+   "opts": [
+    "A tortura é crime imprescritível.",
+    "O racismo é crime afiançável.",
+    "A prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão.",
+    "Os crimes hediondos são imprescritíveis.",
+    "O tráfico ilícito de entorpecentes é imprescritível."
+   ],
+   "resp": "C",
+   "com": "Imprescritíveis: racismo e ação de grupos armados contra a ordem constitucional. Tortura, tráfico, terrorismo e hediondos: inafiançáveis e insuscetíveis de graça ou anistia (não imprescritíveis).",
+   "base": "CF, art. 5º, XLII, XLIII e XLIV.",
+   "prev": ""
+  },
+  {
+   "n": 62,
+   "grupo": "II",
+   "disc": "Direito Constitucional",
+   "texto": false,
+   "enun": "Os tratados e convenções internacionais sobre direitos humanos aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros",
+   "opts": [
+    "terão status de lei complementar.",
+    "terão status supralegal, abaixo da Constituição.",
+    "terão status de lei ordinária.",
+    "serão equivalentes às emendas constitucionais.",
+    "dependerão de referendo popular."
+   ],
+   "resp": "D",
+   "com": "Rito do § 3º = emenda constitucional. Sem esse rito, segundo o STF, os tratados de direitos humanos têm status supralegal.",
+   "base": "CF, art. 5º, § 3º.",
+   "prev": ""
+  },
+  {
+   "n": 63,
+   "grupo": "II",
+   "disc": "Direito Constitucional",
+   "texto": false,
+   "enun": "Compete privativamente à União legislar sobre",
+   "opts": [
+    "proteção ao patrimônio histórico local.",
+    "direito penal e processual.",
+    "organização das polícias civis estaduais, de forma exclusiva.",
+    "direito tributário municipal.",
+    "segurança pública municipal."
+   ],
+   "resp": "B",
+   "com": "Direito penal e processual: competência privativa da União (art. 22, I). Os Estados não criam crimes por lei estadual.",
+   "base": "CF, art. 22, I.",
+   "prev": ""
+  },
+  {
+   "n": 64,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "Quanto ao número mínimo de integrantes, a organização criminosa da Lei nº 12.850/2013 e a organização criminosa ultraviolenta da Lei nº 15.358/2026 exigem, respectivamente,",
+   "opts": [
+    "2 e 3 pessoas.",
+    "3 e 3 pessoas.",
+    "4 e 4 pessoas.",
+    "3 e 4 pessoas.",
+    "4 e 3 pessoas."
+   ],
+   "resp": "E",
+   "com": "A Lei Antifacção definiu como organização criminosa ultraviolenta o agrupamento de 3 ou mais pessoas que emprega violência, grave ameaça ou coação; a Lei nº 12.850/2013 continua exigindo 4 ou mais.",
+   "base": "Lei nº 15.358/2026, art. 2º, § 2º; Lei nº 12.850/2013, art. 1º, § 1º.",
+   "prev": "Novidade 2026 (Lei Antifacção)."
+  },
+  {
+   "n": 65,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "Acerca da Lei nº 15.358/2026 (Lei Antifacção), assinale a opção correta.",
+   "opts": [
+    "Os crimes de domínio social estruturado e de favorecimento ao domínio social estruturado são hediondos e insuscetíveis de anistia, graça, indulto e fiança.",
+    "O favorecimento ao domínio social estruturado é punido com reclusão de 4 a 8 anos.",
+    "O domínio social estruturado é punido com reclusão de 12 a 30 anos.",
+    "O domínio social estruturado só pode ser praticado por milícia formada por agentes públicos.",
+    "Os crimes da lei admitem livramento condicional, desde que cumprida metade da pena."
+   ],
+   "resp": "A",
+   "com": "Penas: domínio social estruturado, 20 a 40 anos; favorecimento, 12 a 20 anos e multa. Ambos são hediondos, sem anistia, graça, indulto, fiança ou livramento condicional. Sujeito ativo: integrante de organização ultraviolenta, grupo paramilitar ou milícia privada.",
+   "base": "Lei nº 15.358/2026, arts. 2º a 4º.",
+   "prev": "Novidade 2026 (Lei Antifacção)."
+  },
+  {
+   "n": 66,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "Acerca das alterações promovidas em 2026 na proteção à mulher em situação de violência doméstica, assinale a opção correta.",
+   "opts": [
+    "O delegado de polícia pode afastar o agressor do lar em município sede de comarca, dispensada a comunicação ao juiz.",
+    "A audiência de retratação passou a depender de manifestação expressa da vítima, e o prazo decadencial para representação ou queixa nesses crimes passou a ser de 12 meses.",
+    "A Lei nº 15.438/2026 reduziu para 3 meses o prazo para a vítima oferecer representação.",
+    "O feminicídio voltou a ser qualificadora do homicídio, com pena de 12 a 30 anos.",
+    "A Lei nº 15.380/2026 tornou a audiência de retratação obrigatória em todos os casos, ainda que a vítima não a solicite."
+   ],
+   "resp": "B",
+   "com": "Lei nº 15.380/2026 (06/04/2026): retratação só com manifestação expressa da vítima. Lei nº 15.438/2026 (18/06/2026): prazo de 6 para 12 meses (CP, art. 103; CPP, art. 38; LMP, art. 16-A).",
+   "base": "Lei nº 11.340/2006, arts. 16 e 16-A.",
+   "prev": "Novidades 2026 na Lei Maria da Penha."
+  },
+  {
+   "n": 67,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "Verificado risco atual ou iminente à vida ou à integridade da mulher em situação de violência doméstica, a Lei Maria da Penha permite que",
+   "opts": [
+    "o afastamento só ocorra após representação formal da vítima ao Ministério Público.",
+    "o policial afaste o agressor mesmo havendo delegado disponível no momento da denúncia.",
+    "o delegado de polícia afaste o agressor do lar quando o município não for sede de comarca, comunicando o juiz no prazo máximo de 24 horas.",
+    "apenas o juiz determine o afastamento, em qualquer hipótese.",
+    "o delegado de polícia afaste o agressor em qualquer município, comunicando o juiz em 48 horas."
+   ],
+   "resp": "C",
+   "com": "Ordem: juiz; delegado (município que não é sede de comarca); policial (não é sede de comarca e não há delegado disponível). O juiz é comunicado em até 24 h. O STF julgou constitucional (ADI 6.138).",
+   "base": "Lei nº 11.340/2006, art. 12-C.",
+   "prev": "Atuação direta da delegacia."
+  },
+  {
+   "n": 68,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "Acerca da Lei de Abuso de Autoridade (Lei nº 13.869/2019), assinale a opção correta.",
+   "opts": [
+    "As condutas só constituem crime quando praticadas com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.",
+    "Os crimes são de ação penal privada.",
+    "Somente servidores efetivos podem praticar esses crimes.",
+    "A divergência na interpretação de lei configura abuso de autoridade.",
+    "Os crimes admitem a modalidade culposa."
+   ],
+   "resp": "A",
+   "com": "Exige-se dolo + finalidade específica (art. 1º, § 1º). A divergência interpretativa não configura crime (§ 2º). Sujeito ativo: agente público, servidor ou não. Ação penal pública incondicionada.",
+   "base": "Lei nº 13.869/2019, arts. 1º a 3º.",
+   "prev": ""
+  },
+  {
+   "n": 69,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "Acerca da Lei nº 9.455/1997 (tortura), assinale a opção correta.",
+   "opts": [
+    "A tortura só pode ser praticada por agente público.",
+    "A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+    "O crime de tortura é imprescritível.",
+    "É atípica a omissão de quem tinha o dever de evitar ou apurar a tortura.",
+    "O crime de tortura é afiançável."
+   ],
+   "resp": "B",
+   "com": "Tortura: inafiançável e insuscetível de graça ou anistia; a omissão é punida (detenção de 1 a 4 anos); em regra é crime comum.",
+   "base": "Lei nº 9.455/1997, art. 1º, §§ 2º, 5º e 6º.",
+   "prev": ""
+  },
+  {
+   "n": 70,
+   "grupo": "II",
+   "disc": "Legislação Penal Especial",
+   "texto": false,
+   "enun": "São crimes hediondos, entre outros,",
+   "opts": [
+    "o abuso de autoridade e a prevaricação.",
+    "o dano simples e a receptação culposa.",
+    "o feminicídio e o domínio social estruturado.",
+    "o furto simples e o estelionato.",
+    "a lesão corporal leve e a ameaça."
+   ],
+   "resp": "C",
+   "com": "Feminicídio: Lei nº 8.072/1990, art. 1º, I-B (Lei nº 14.994/2024). Domínio social estruturado: hediondo por força da Lei nº 15.358/2026.",
+   "base": "Lei nº 8.072/1990; Lei nº 15.358/2026.",
+   "prev": "Hediondos atualizados (2024–2026)."
+  },
+  {
+   "n": 71,
+   "grupo": "II",
+   "disc": "Direitos Humanos",
+   "texto": false,
+   "enun": "Segundo a Súmula Vinculante nº 25 do STF,",
+   "opts": [
+    "é lícita a prisão civil do depositário judicial.",
+    "a prisão civil por dívida de alimentos foi abolida.",
+    "é lícita a prisão civil do devedor fiduciante.",
+    "é lícita a prisão civil por qualquer dívida reconhecida em sentença.",
+    "é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito."
+   ],
+   "resp": "E",
+   "com": "Base: Pacto de São José da Costa Rica (art. 7.7), que só admite prisão civil por alimentos.",
+   "base": "SV 25/STF; Convenção Americana sobre Direitos Humanos, art. 7.7.",
+   "prev": ""
+  },
+  {
+   "n": 72,
+   "grupo": "II",
+   "disc": "Direitos Humanos",
+   "texto": false,
+   "enun": "Segundo o entendimento do STF, os tratados internacionais de direitos humanos ratificados pelo Brasil sem o rito do art. 5º, § 3º, da Constituição têm status",
+   "opts": [
+    "de lei complementar.",
+    "de lei ordinária.",
+    "constitucional.",
+    "de decreto regulamentar.",
+    "supralegal: abaixo da Constituição e acima das leis."
+   ],
+   "resp": "E",
+   "com": "Tese firmada no RE 466.343 (2008), base da Súmula Vinculante 25.",
+   "base": "STF, RE 466.343.",
+   "prev": ""
+  },
+  {
+   "n": 73,
+   "grupo": "II",
+   "disc": "Direitos Humanos",
+   "texto": false,
+   "enun": "A Declaração Universal dos Direitos Humanos",
+   "opts": [
+    "admite a tortura em casos de terrorismo.",
+    "é tratado ratificado pelo Brasil com força de emenda constitucional.",
+    "foi adotada pela Assembleia Geral da ONU em 1948.",
+    "foi elaborada pela Organização dos Estados Americanos.",
+    "foi adotada em 1966, junto com os Pactos Internacionais."
+   ],
+   "resp": "C",
+   "com": "Adotada em 10/12/1948 pela Assembleia Geral (resolução). Os Pactos de direitos civis e políticos e de direitos econômicos, sociais e culturais são de 1966.",
+   "base": "Sistema global de proteção (ONU).",
+   "prev": ""
+  },
+  {
+   "n": 74,
+   "grupo": "II",
+   "disc": "Direitos Humanos",
+   "texto": false,
+   "enun": "Segundo a Lei nº 13.060/2014, que trata do uso de instrumentos de menor potencial ofensivo pelos agentes de segurança pública,",
+   "opts": [
+    "o uso de instrumentos de menor potencial ofensivo dispensa capacitação.",
+    "o uso da força orienta-se pelos princípios da oportunidade e da conveniência.",
+    "a lei se aplica apenas às Forças Armadas.",
+    "não é legítimo o uso de arma de fogo contra pessoa em fuga que esteja desarmada ou que não represente risco imediato de morte ou de lesão aos agentes ou a terceiros.",
+    "é sempre legítimo atirar contra veículo que desrespeite bloqueio policial."
+   ],
+   "resp": "D",
+   "com": "Princípios: legalidade, necessidade, razoabilidade e proporcionalidade. Contra veículo que fura bloqueio, só se houver risco de morte ou lesão.",
+   "base": "Lei nº 13.060/2014, art. 2º e parágrafo único.",
+   "prev": ""
+  },
+  {
+   "n": 75,
+   "grupo": "II",
+   "disc": "Medicina Legal",
+   "texto": false,
+   "enun": "Quanto ao instrumento, o ferimento produzido por projétil de arma de fogo é classificado como",
+   "opts": [
+    "cortocontuso.",
+    "perfurante.",
+    "perfurocortante.",
+    "perfurocontuso.",
+    "cortante."
+   ],
+   "resp": "D",
+   "com": "O projétil perfura e contunde. Faca: perfurocortante; navalha: cortante; machado: cortocontuso.",
+   "base": "Traumatologia forense.",
+   "prev": ""
+  },
+  {
+   "n": 76,
+   "grupo": "II",
+   "disc": "Medicina Legal",
+   "texto": false,
+   "enun": "Acerca das asfixias mecânicas, assinale a opção correta.",
+   "opts": [
+    "Afogamento é a obstrução das vias aéreas por corpo sólido.",
+    "No enforcamento, o sulco é sempre horizontal e contínuo.",
+    "No enforcamento, o sulco costuma ser oblíquo, ascendente e interrompido; no estrangulamento por laço, tende a ser horizontal e contínuo.",
+    "No estrangulamento, a constrição do pescoço decorre do peso do próprio corpo.",
+    "Esganadura é a constrição do pescoço por meio de laço."
+   ],
+   "resp": "C",
+   "com": "Enforcamento: força = peso do corpo. Estrangulamento: força externa com laço. Esganadura: com as mãos. Afogamento: meio líquido.",
+   "base": "Asfixiologia forense.",
+   "prev": ""
+  },
+  {
+   "n": 77,
+   "grupo": "II",
+   "disc": "Medicina Legal",
+   "texto": false,
+   "enun": "A lesão corporal que resulta em incapacidade para as ocupações habituais por mais de 30 dias é classificada como",
+   "opts": [
+    "grave.",
+    "leve.",
+    "seguida de morte.",
+    "culposa.",
+    "gravíssima."
+   ],
+   "resp": "A",
+   "com": "Grave: incapacidade por mais de 30 dias, perigo de vida, debilidade permanente, aceleração de parto. Gravíssima: incapacidade permanente, perda ou inutilização de membro, deformidade permanente etc.",
+   "base": "CP, art. 129, §§ 1º e 2º.",
+   "prev": ""
+  },
+  {
+   "n": 78,
+   "grupo": "II",
+   "disc": "Medicina Legal",
+   "texto": false,
+   "enun": "Acerca dos fenômenos cadavéricos, assinale a opção correta.",
+   "opts": [
+    "A rigidez cadavérica é permanente e não desaparece.",
+    "Algidez cadavérica é o aumento da temperatura do corpo.",
+    "Os livores surgem nas regiões mais elevadas do corpo.",
+    "A putrefação é fenômeno imediato, presente nos primeiros minutos após a morte.",
+    "A rigidez cadavérica costuma instalar-se no sentido crânio-caudal (lei de Nysten), começando pela face e pela mandíbula."
+   ],
+   "resp": "E",
+   "com": "Livores: regiões de declive. Rigidez: instala-se e depois desaparece. Algidez: resfriamento. Putrefação: fenômeno transformativo tardio.",
+   "base": "Tanatologia forense.",
+   "prev": ""
+  },
+  {
+   "n": 79,
+   "grupo": "II",
+   "disc": "Criminologia",
+   "texto": false,
+   "enun": "Para a criminologia moderna, são objetos de estudo",
+   "opts": [
+    "apenas o delinquente, sob a ótica biológica.",
+    "apenas o delito e a pena.",
+    "apenas a vítima e a reparação do dano.",
+    "o delito, o delinquente, a vítima e o controle social.",
+    "apenas a lei penal e sua interpretação."
+   ],
+   "resp": "D",
+   "com": "A criminologia é ciência empírica e interdisciplinar com quatro objetos: delito, delinquente, vítima e controle social.",
+   "base": "Criminologia: conceito e objeto.",
+   "prev": ""
+  },
+  {
+   "n": 80,
+   "grupo": "II",
+   "disc": "Criminologia",
+   "texto": false,
+   "enun": "Programas de ressocialização de presos, voltados a evitar a reincidência, são exemplos de prevenção criminal",
+   "opts": [
+    "geral negativa.",
+    "primária.",
+    "situacional.",
+    "terciária.",
+    "secundária."
+   ],
+   "resp": "D",
+   "com": "Primária: raízes do crime (educação, emprego). Secundária: onde e quando o crime se manifesta (policiamento). Terciária: população presa, para evitar reincidência.",
+   "base": "Prevenção criminal.",
+   "prev": ""
+  }
+ ],
+ "redacao": {
+  "tema": "Lei Antifacção (Lei nº 15.358/2026) e a investigação policial",
+  "comando": "Redija um texto dissertativo sobre a Lei nº 15.358/2026 (Lei Antifacção) e seus reflexos na investigação conduzida pela polícia civil. Aborde, necessariamente, os seguintes aspectos:",
+  "aspectos": [
+   "o conceito de organização criminosa ultraviolenta e a diferença em relação à organização criminosa da Lei nº 12.850/2013;",
+   "os crimes de domínio social estruturado e de favorecimento ao domínio social estruturado, com suas consequências penais;",
+   "os prazos do inquérito policial previstos na lei e os desafios práticos para o oficial investigador."
+  ],
+  "padrao": [
+   "<b>Aspecto 1:</b> organização criminosa ultraviolenta = agrupamento de 3 ou mais pessoas que emprega violência, grave ameaça ou coação (controle territorial ou social, intimidação de populações ou autoridades, ataque a serviços essenciais). A Lei nº 12.850/2013 exige 4 ou mais pessoas, estrutura ordenada e divisão de tarefas, com foco na obtenção de vantagem. A Lei Antifacção foca no método violento e no domínio territorial.",
+   "<b>Aspecto 2:</b> domínio social estruturado (art. 2º): reclusão de 20 a 40 anos. Favorecimento (art. 3º): reclusão de 12 a 20 anos e multa; pode ser praticado por quem não integra o grupo. Ambos hediondos, sem anistia, graça, indulto, fiança ou livramento condicional. Mencionar causas de aumento (líderes, uso de crianças, agentes públicos) agrega.",
+   "<b>Aspecto 3:</b> inquérito em 90 dias (preso) e 270 dias (solto), prorrogáveis por igual período (art. 5º). Desafios: investigação financeira e patrimonial, análise de dados digitais, cadeia de custódia, cooperação em forças-tarefa e respeito às garantias (legalidade e controle judicial)."
+  ],
+  "alternativos": [
+   "Cadeia de custódia da prova e a atuação do oficial investigador (CPP, arts. 158-A a 158-F).",
+   "Violência doméstica: atuação policial após as Leis nº 15.380/2026 e nº 15.438/2026.",
+   "Abuso de autoridade e os limites da investigação policial (Lei nº 13.869/2019)."
+  ]
+ }
+}
