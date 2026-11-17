@@ -4,7 +4,7 @@ App de estudos (PWA) do Lagares para o concurso da **Polícia Civil do Tocantins
 
 ## 1. Onde está tudo
 
-- **Repositório:** https://github.com/LGRSV/vera-trecho-v2- (branch `main`, commit `4c6bd98`).
+- **Repositório:** https://github.com/LGRSV/vera-trecho-v2- (branch `main`).
   - Este repositório inativo foi reaproveitado porque a sessão anterior não conseguiu criar um repositório novo.
   - O conteúdo antigo está preservado no branch `arquivo-vera-trecho-v2`. O Vera Trechos V2 continua publicado em `vera-trechos/v2/`.
   - **Renomear para `missao-pcto`** (pendente, ver seção 4).
