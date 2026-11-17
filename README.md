@@ -46,6 +46,7 @@ npm test   # 17 testes: datas, fuso de Palmas, revisões, pontuação, planejado
 
 ## Documentos
 
+- [Handoff do projeto (para continuar o desenvolvimento)](docs/HANDOFF.md)
 - [Plano do app v2.0 (PDF)](docs/Plano_App_v2.pdf)
 - [Simulado Inédito 01 — prova prevista (PDF)](docs/Simulado_01_Prova_Prevista.pdf)
 - [Gabarito comentado (PDF)](docs/Simulado_01_Gabarito_Comentado.pdf)
